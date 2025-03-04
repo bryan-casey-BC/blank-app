@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime
-def func_page_1():
+def func_page_2():
     st.title('Page 2')
 #Expander in sidebar
 st.sidebar.subheader('Expander')

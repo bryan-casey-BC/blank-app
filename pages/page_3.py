@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime
-def func_page_1():
+def func_page_3():
     st.title('Page 3')
 st.title('Clock')
 clock = st.empty()
