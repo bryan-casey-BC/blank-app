@@ -1,4 +1,6 @@
 import streamlit as st
+def func_page_1():
+    st.title('Page 1')
 st.set_page_config(
 
     page_title='Hello world',
