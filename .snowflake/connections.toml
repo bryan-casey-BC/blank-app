@@ -1,8 +1,7 @@
-[connections.my_connection]
+[default]
 account = "IPFOTLV-VRB18736"
 user = "BRYANCASEY"
 password = "#ogW42d0$nXb4zLx73#J"
-role = "ACCOUNTADMIN"
 warehouse = "COMPUTE_WH"
 database = "PETS"
 schema = "PUBLIC"
