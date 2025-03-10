@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-conn = st.connection("connections.snowflake")
+conn = st.connection("snowflake")
 df = conn.query("SELECT * FROM mytable;", ttl="10m")
 
 for row in df.itertuples():
