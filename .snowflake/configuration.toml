@@ -1,8 +1,0 @@
-[connections.snowflake]
-account = "IPFOTLV-VRB18736"
-user = "BRYANCASEY"
-role = "ACCOUNTADMIN"
-password = "#ogW42d0$nXb4zLx73#J"
-warehouse = "COMPUTE_WH"
-database = "PETS"
-schema = "PUBLIC"
